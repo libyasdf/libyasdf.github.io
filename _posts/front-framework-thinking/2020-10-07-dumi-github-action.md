@@ -35,3 +35,14 @@ bundle exce jekyll serve
 的效果。
 
 反观dumi，使用GitHub action，随着push，而部署。
+
+#### NOTE:
+package.json中的:
+```
+"homepage": "https://libyasdf.github.io/data-structure-docs",
+```
+是部署后加载到资源的关键。
+
+>homepage 的作用是设置应用的跟路径，我们的项目打包后是要运行在一个域名之下的，有时候可能是运行在跟域名下，也有可能运行在某个子域名下或或域名的某个目录下，这时候我们就需要让我们的应用知道去哪里加载资源，这时候就需要我们设置一个跟路径，而且有时候我们的资源会部署在 CDN 上，你必须告诉打包工具你的CDN地址是什么。
+
+[homepage属性](https://blog.csdn.net/duninet/article/details/104537393)  
