@@ -32,3 +32,5 @@ encodeURI和encodeURIComponent则使用UTF-8对非ASCII字符进行编码，然�
 ```
 application/x-www-form-urlencoded
 ```
+
+#### 客户端存储-红宝书25
