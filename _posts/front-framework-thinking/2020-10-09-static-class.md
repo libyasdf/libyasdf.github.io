@@ -1,5 +1,5 @@
 ---
-title: "class static"
+title: "javascript 中的 class static"
 subtitle: ""
 layout: post
 author: "libyasdf"
