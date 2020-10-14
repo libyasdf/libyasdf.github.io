@@ -8,6 +8,14 @@ tags:
   - jekyll
   - Gemfile
 ---
+
+# 入门网站
+[Jekyll + Github Pages 博客搭建入门](https://www.jianshu.com/p/9f198d5779e6)  
+
+[YAML 语言教程](http://www.ruanyifeng.com/blog/2016/07/yaml.html)  
+
+[官网](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll)  
+
 # vue-cli
 bulid a vue project on master branch with vue-cli
 
@@ -55,10 +63,4 @@ then run:<br/>
 _config.yml下的baseurl属性，写为当前项目下的路径，使提交到GitHub也能找到css等样式资源。
 
 
-# 入门网站
-[Jekyll + Github Pages 博客搭建入门](https://www.jianshu.com/p/9f198d5779e6)  
-
-[YAML 语言教程](http://www.ruanyifeng.com/blog/2016/07/yaml.html)  
-
-[官网](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll)  
 

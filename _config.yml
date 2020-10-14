@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
+# weibo_username:     huxpro
+# zhihu_username:     huxpro
 github_username:    libyasdf
-twitter_username:   huxpro
+# twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -106,8 +106,8 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "知乎",
+        href: "https://www.zhihu.com/people/liby-momo-nana"
     },{
         title: "Sherry Wu",
         href: "https://xuechundesign.github.io"
