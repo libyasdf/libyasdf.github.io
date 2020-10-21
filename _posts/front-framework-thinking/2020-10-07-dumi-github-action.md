@@ -18,7 +18,9 @@ tags:
 
 # github action
 1、从全局*setting/developer settings/personal access token*获取到token  
-2、然后从项目的setting中，设置**Secrets**，取好名字。
+
+2、然后从项目的setting中，设置**Secrets**，取好名字。  
+
 3、将取好的名字，在GitHub workflow action .yml文件中，使用<br/>
 
 ```
