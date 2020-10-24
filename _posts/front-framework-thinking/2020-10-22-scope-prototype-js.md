@@ -44,12 +44,13 @@ ES6箭头函数:
 没有super  
 
 ## constructor prototype __proto__
-[例子](https://juejin.im/post/6844903604575272974)  
+[小猪例子](https://juejin.im/post/6844903604575272974)  
 
 >每一个函数都会有prototype属性  
 >每一个原型都会有一个constructor  
 >每一个实例/对象都会有一个__proto__指针  
 
+![原型](/img/html/prototype.png)  
 
 # 闭包
 让外部访问函数内部变量成为可能；
